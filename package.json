@@ -1,7 +1,7 @@
 {
     "name": "saber-touch",
     "version": "0.0.1",
-    "description": "百度云手势事件库。",
+    "description": "移动端手势事件库，来自百度云 Clouda 团队。",
     "main": "emitter",
     "maintainers": [
         { "name": "firede", "email": "firede@firede.us" }
