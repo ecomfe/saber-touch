@@ -1,0 +1,28 @@
+{
+  "name": "saber-touch",
+  "version": "0.0.1",
+  "description": "移动端手势事件库，来自百度云 Clouda 团队。",
+  "main": "emitter",
+  "maintainers": [
+    {
+      "name": "firede",
+      "email": "firede@firede.us"
+    }
+  ],
+  "contributors": [
+    {
+      "name": "brandnewera"
+    }
+  ],
+  "license": "BSD",
+  "repository": "git://github.com/ecomfe/saber-touch.git",
+  "bugs": "https://github.com/ecomfe/saber-touch/issues",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "doc",
+    "demo"
+  ]
+}
